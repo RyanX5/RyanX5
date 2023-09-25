@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋 Nice to meet you 😄 
 
 <!--
 **RyanX5/RyanX5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 🎬 About Me  (just a little bit)
+
+
+I'm **Rohan Upadhyay**, a rising sophomore at **Fisk Univeristy** majoring in Computer Science 💻.
+
+I'm very much interested in **AI** and **Natural Language Processing (NLP)** 🤖.
+
+I also love **Image Manipulation** 🖼️ and the theory behind it. My first introduction to Image Processing was when I created a Painting-To-Music converter program for my
+Honors Arts project in my first year 📑. Check it out here: https://github.com/RyanX5/PaintingToMusic
