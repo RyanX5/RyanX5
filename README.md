@@ -51,15 +51,13 @@ Feel free to explore these projects and provide feedback or collaborate with me 
 
 - 🌐 **Languages and Technologies:** Python, C#, Java, PHP, C++, Unity, Godot, WordPress, OpenCV Python, Android Studio, Manim Animator, Figma.
 
-- 💼 **GitHub Stats:** I'm passionate about coding, and you can see my contributions through commits.
-
 - 📫 **Contact:** You can connect with me on [LinkedIn](https://linkedin.com/in/rohan-raj-upadhyay) or drop me an email at rohaniam777@gmail.com.
 
 - 🤝 **Contributions and Collaboration:** I'm open to collaborations on exciting projects. Feel free to reach out to me on LinkedIn if you'd like to work together.
 
 - 🎨 **Fun Facts:** Besides coding, I'm also an artist at heart. I enjoy playing the guitar, composing music, painting, and sketching portraits. I've recently been learning to play the piano and a little bit of photography too. Check some of my work via my [Instagram](https://www.instagram.com/rohan_reignzz/) page!🎶🎨🎸
 
-- 📜 **Certifications:** You can find my certifications on my [website](Your_Certifications_Website_Link).
+- 📜 **Portfolio:** You can find my work and other projects on my [website](https://rohanupadhyay.com.np).
 
 Let's build something amazing together! 😄
 
