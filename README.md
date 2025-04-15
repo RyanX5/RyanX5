@@ -24,7 +24,7 @@ I'm very much interested in **AI** and **Natural Language Processing (NLP)** �
 
 I also love **Image Manipulation** 🖼️ and the theory behind it. My first introduction to Image Processing was when I created a Painting-To-Music converter program for my
 Honors Arts project in my first year. Check it out [here](https://github.com/RyanX5/PaintingToMusic) 📑
--->
+
 
 # Hi there! 👋 I'm Rohan Upadhyay
 
@@ -60,4 +60,4 @@ Feel free to explore these projects and provide feedback or collaborate with me 
 - 📜 **Portfolio:** You can find my work and other projects on my [website](https://rohanupadhyay.com.np).
 
 Let's build something amazing together! 😄
-
+-->
